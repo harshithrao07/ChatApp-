@@ -28,9 +28,9 @@ npm start
 
 ## Screenshots
 
-![](./client/public/images/screenshots/s-1.png)
-![](./client/public/images/screenshots/s-2.png)
-![](./client/public/images/screenshots/s-3.png)
+![](./client/public/images/screenshots/s1.png)
+![](./client/public/images/screenshots/s2.png)
+![](./client/public/images/screenshots/s3.png)
 
 
 
