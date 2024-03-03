@@ -3,7 +3,7 @@ import io from 'socket.io-client'
 import { Button, IconButton } from '@material-tailwind/react'
 
 // connects to socket in backend
-const socket = io('https://chat-app-phi-mocha.vercel.app/')
+const socket = io('http://localhost:3000')
 
 const App = () => {
   const [privateChats, setPrivateChats] = useState(new Map())
